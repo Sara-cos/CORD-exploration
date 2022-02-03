@@ -14,7 +14,7 @@ Download the data [metadata.csv]
 ### Azure Student credits
 https://azure.microsoft.com/en-in/free/students/
 
-(Get $100 credits)
+(Get $100 credits [renewable every year if you are still a student])
 
 https://azure.microsoft.com/en-in/services/cognitive-services/text-analytics/
 
